@@ -39,10 +39,10 @@
               <div class="glass-card p-6 mb-6">
                 <h3 class="font-semibold text-gray-900 mb-2">{{ $t('privacy.dataCollected.storedLocally.title') }}</h3>
                 <ul class="list-disc list-inside text-gray-600 space-y-2">
-                  <li><strong>{{ $t('privacy.dataCollected.storedLocally.checkins') }}</strong></li>
-                  <li><strong>{{ $t('privacy.dataCollected.storedLocally.contacts') }}</strong></li>
-                  <li><strong>{{ $t('privacy.dataCollected.storedLocally.journal') }}</strong></li>
-                  <li><strong>{{ $t('privacy.dataCollected.storedLocally.settings') }}</strong></li>
+                  <li><span v-html="$t('privacy.dataCollected.storedLocally.checkins')"></span></li>
+                  <li><span v-html="$t('privacy.dataCollected.storedLocally.contacts')"></span></li>
+                  <li><span v-html="$t('privacy.dataCollected.storedLocally.journal')"></span></li>
+                  <li><span v-html="$t('privacy.dataCollected.storedLocally.settings')"></span></li>
                 </ul>
               </div>
               
@@ -105,9 +105,9 @@
               <h2 class="text-2xl font-bold text-gray-900 mb-4">{{ $t('privacy.permissions.title') }}</h2>
               <p class="text-gray-600 mb-4">{{ $t('privacy.permissions.intro') }}</p>
               <ul class="list-disc list-inside text-gray-600 space-y-2">
-                <li><strong>{{ $t('privacy.permissions.notifications') }}</strong></li>
-                <li><strong>{{ $t('privacy.permissions.contacts') }}</strong></li>
-                <li><strong>{{ $t('privacy.permissions.camera') }}</strong></li>
+                <li><span v-html="$t('privacy.permissions.notifications')"></span></li>
+                <li><span v-html="$t('privacy.permissions.contacts')"></span></li>
+                <li><span v-html="$t('privacy.permissions.camera')"></span></li>
               </ul>
               <p class="text-gray-600 mt-4">
                 {{ $t('privacy.permissions.revoke') }}

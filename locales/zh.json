@@ -96,10 +96,10 @@
             "title": "我们收集哪些数据",
             "storedLocally": {
                 "title": "✅ 存储在您设备上的数据",
-                "checkins": "打卡记录：您每日打卡的时间戳",
-                "contacts": "紧急联系人：您指定联系人的姓名和电话号码",
-                "journal": "日记条目：您选择记录的个人笔记和媒体",
-                "settings": "应用设置：您的偏好设置（打卡时间、提醒阈值等）"
+                "checkins": "<strong>打卡记录：</strong>您每日打卡的时间戳",
+                "contacts": "<strong>紧急联系人：</strong>您指定联系人的姓名和电话号码",
+                "journal": "<strong>日记条目：</strong>您选择记录的个人笔记和媒体",
+                "settings": "<strong>应用设置：</strong>您的偏好设置（打卡时间、提醒阈值等）"
             },
             "notCollected": {
                 "title": "🚫 我们不收集的数据",
@@ -126,9 +126,9 @@
         "permissions": {
             "title": "权限",
             "intro": "应用请求以下权限：",
-            "notifications": "通知：提醒您每日打卡",
-            "contacts": "通讯录（可选）：方便选择紧急联系人",
-            "camera": "相机/照片（可选）：用于带媒体的日记条目",
+            "notifications": "<strong>通知：</strong>提醒您每日打卡",
+            "contacts": "<strong>通讯录（可选）：</strong>方便选择紧急联系人",
+            "camera": "<strong>相机/照片（可选）：</strong>用于带媒体的日记条目",
             "revoke": "您可以随时通过设备设置撤销这些权限。"
         },
         "children": {

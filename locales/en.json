@@ -95,10 +95,10 @@
       "title": "What Data We Collect",
       "storedLocally": {
         "title": "✅ Data Stored Locally on Your Device",
-        "checkins": "Check-in Records: Timestamps of your daily check-ins",
-        "contacts": "Emergency Contacts: Names and phone numbers of your designated contacts",
-        "journal": "Journal Entries: Personal notes and media you choose to record",
-        "settings": "App Settings: Your preferences (check-in time, alert thresholds, etc.)"
+        "checkins": "<strong>Check-in Records:</strong> Timestamps of your daily check-ins",
+        "contacts": "<strong>Emergency Contacts:</strong> Names and phone numbers of your designated contacts",
+        "journal": "<strong>Journal Entries:</strong> Personal notes and media you choose to record",
+        "settings": "<strong>App Settings:</strong> Your preferences (check-in time, alert thresholds, etc.)"
       },
       "notCollected": {
         "title": "🚫 Data We Do NOT Collect",
@@ -125,9 +125,9 @@
     "permissions": {
       "title": "Permissions",
       "intro": "The app requests the following permissions:",
-      "notifications": "Notifications: To remind you of daily check-ins",
-      "contacts": "Contacts (optional): To easily select emergency contacts",
-      "camera": "Camera/Photos (optional): For journal entries with media",
+      "notifications": "<strong>Notifications:</strong> To remind you of daily check-ins",
+      "contacts": "<strong>Contacts (optional):</strong> To easily select emergency contacts",
+      "camera": "<strong>Camera/Photos (optional):</strong> For journal entries with media",
       "revoke": "You can revoke these permissions at any time through your device settings."
     },
     "children": {
