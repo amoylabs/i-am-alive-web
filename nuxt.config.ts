@@ -24,13 +24,13 @@ export default defineNuxtConfig({
     },
     app: {
         head: {
-            title: 'I am alive! - Safety Net for Solo Dwellers',
+            title: "I'm here! - Keep the days halcyon",
             meta: [
                 { charset: 'utf-8' },
                 { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-                { name: 'description', content: 'I am alive! is an iOS safety app for solo dwellers. Daily check-ins keep your loved ones informed. If you miss a check-in, your emergency contacts are automatically alerted.' },
+                { name: 'description', content: "I'm here! is an iOS safety app for solo dwellers. Daily check-ins keep your loved ones informed. If you miss a check-in, your emergency contacts are automatically alerted." },
                 { name: 'keywords', content: 'safety app, solo dwellers, check-in, emergency contacts, iOS app' },
-                { property: 'og:title', content: 'I am alive! - Safety Net for Solo Dwellers' },
+                { property: 'og:title', content: "I'm here! - Keep the days halcyon" },
                 { property: 'og:description', content: 'Daily check-ins. Automatic alerts. Peace of mind.' },
                 { property: 'og:type', content: 'website' }
             ],

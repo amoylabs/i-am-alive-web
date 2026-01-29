@@ -1,7 +1,7 @@
 {
   "app": {
-    "name": "I am alive!",
-    "tagline": "Safety Net for Solo Dwellers"
+    "name": "I'm here!",
+    "tagline": "Keep the days halcyon."
   },
   "nav": {
     "features": "Features",
@@ -22,7 +22,7 @@
   "mockup": {
     "welcomeTo": "Welcome to",
     "companion": "Your daily safety companion",
-    "iAmAliveButton": "I AM ALIVE!",
+    "iAmAliveButton": "I'M HERE!",
     "safetyStatus": "Safety Status:",
     "secure": "SECURE",
     "dailyStreak": "Daily Streak: 7",
@@ -74,7 +74,7 @@
   },
   "cta": {
     "title": "Start Living Safer Today",
-    "description": "Download I am alive! and give yourself and your loved ones the peace of mind you deserve.",
+    "description": "Download I'm here! and give yourself and your loved ones the peace of mind you deserve.",
     "downloadOn": "Download on the",
     "appStore": "App Store"
   },
@@ -89,7 +89,7 @@
     "lastUpdated": "Last updated: January 2026",
     "priority": {
       "title": "Your Privacy is Our Priority",
-      "description": "\"I am alive!\" is designed with privacy at its core. We believe your personal safety information is yours alone, and we've built our app to respect that principle."
+      "description": "\"I'm here!\" is designed with privacy at its core. We believe your personal safety information is yours alone, and we've built our app to respect that principle."
     },
     "dataCollected": {
       "title": "What Data We Collect",
@@ -197,17 +197,17 @@
   },
   "seo": {
     "home": {
-      "title": "I am alive! - Safety Net for Solo Dwellers",
-      "description": "I am alive! is an iOS safety app for solo dwellers. Daily check-ins keep your loved ones informed. If you miss a check-in, your emergency contacts are automatically alerted.",
+      "title": "I'm here! - Keep the days halcyon",
+      "description": "I'm here! is an iOS safety app for solo dwellers. Daily check-ins keep your loved ones informed. If you miss a check-in, your emergency contacts are automatically alerted.",
       "ogDescription": "Daily check-ins. Automatic alerts. Peace of mind."
     },
     "privacy": {
-      "title": "Privacy Policy - I am alive!",
-      "description": "Learn how I am alive! protects your privacy. All data stays on your device - we never collect or share your personal information."
+      "title": "Privacy Policy - I'm here!",
+      "description": "Learn how I'm here! protects your privacy. All data stays on your device - we never collect or share your personal information."
     },
     "support": {
-      "title": "Support - I am alive!",
-      "description": "Get help with I am alive! app. Find answers to frequently asked questions or contact our support team."
+      "title": "Support - I'm here!",
+      "description": "Get help with I'm here! app. Find answers to frequently asked questions or contact our support team."
     }
   }
 }
