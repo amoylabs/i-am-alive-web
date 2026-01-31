@@ -24,7 +24,7 @@
     "companion": "Your daily safety companion",
     "iAmAliveButton": "I'M HERE!",
     "safetyStatus": "Safety Status:",
-    "secure": "SECURE",
+    "secure": "ALL IS WELL",
     "dailyStreak": "Daily Streak: 7",
     "contacts": "3 Contacts"
   },
@@ -33,7 +33,7 @@
     "description": "Simple yet powerful features designed to keep you safe and give your loved ones peace of mind.",
     "dailyCheckins": {
       "title": "Daily Check-ins",
-      "description": "A simple tap each day confirms you're okay. Set your preferred check-in time and receive gentle reminders."
+      "description": "A simple tap each day confirms you're here. Set your preferred check-in time and receive gentle reminders."
     },
     "automaticAlerts": {
       "title": "Automatic Alerts",
